@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="mgtu_occupancy_l2" type="oneshot_gazebo_node.py" name="oneshot_node" output="screen">
+    </node>
+</launch>
